@@ -17,5 +17,5 @@ This repository's main folder is home to a variety of C programmes, each of whic
 - File Handling
 
 
-OS Folder
+## OS Folder
 The "OS" folder contains programs that demonstrate the usage of the fork system call in C, which is primarily used for process creation and multitasking in operating systems. These programs will give you a basic understanding of how processes are created and how they interact with each other.

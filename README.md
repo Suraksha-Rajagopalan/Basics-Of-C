@@ -1,3 +1,7 @@
 <div align="center"><h1>Basics Of C</h1></div>
 
 Welcome to the "Basic Of C" repository! This repository is designed to help beginners learn the fundamentals of the C programming language. It contains a collection of beginner-level C programs that cover various concepts, as well as some fork-related programs in the "OS" folder. Whether you are new to programming or looking to refresh your C skills, this repository has something to offer for everyone.
+
+## C Programs
+
+This repository's main folder is home to a variety of C programmes, each of which focuses on a distinct language feature. You can comprehend the reasoning behind each code snippet thanks to the programmes' thorough documentation and accompanying explanations. Some of the subjects covered in the C programmes are listed below:
